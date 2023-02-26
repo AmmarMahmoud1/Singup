@@ -1,0 +1,77 @@
+.search{
+    display: flex;
+  
+}
+
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-end;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.gallery{
+    height: 25%;
+    width: 75%;
+}
+.cards{
+   
+    display: flex;
+    margin: 5% 5%;
+}
+.card{
+   margin: 1% 1%;
+}
+ 
+/* Sign Up Style */
+
+.Short {  
+    width: 25%;  
+    background-color: #dc3545;  
+    margin-top: 5px;
+    margin-bottom: 15px;  
+    height: 3px;  
+    color: #dc3545;  
+    font-weight: 500;  
+    font-size: 12px;  
+}  
+.Weak {  
+    width: 25%;  
+    background-color: #ffc107;  
+    margin-top: 5px;  
+    margin-bottom: 15px; 
+    height: 3px;  
+    color: #ffc107;  
+    font-weight: 500;  
+    font-size: 12px;  
+}  
+.Good {  
+    width: 25%;  
+    background-color: rgb(57, 57, 179);  
+    margin-top: 5px;  
+    margin-bottom: 15px; 
+    height: 3px;  
+    color:rgb(57, 57, 179) ;
+    font-weight: 500;  
+    font-size: 12px;  
+}  
+.Strong {  
+    width: 25%;  
+    background-color: #28a745;  
+    margin-top: 5px;  
+    margin-bottom: 15px;  
+    height: 3px;  
+    color: #28a745; 
+    font-weight: 500;  
+    font-size: 12px;  
+} 
+
+.red{
+    color: #dc3545; 
+}
+
+
+/* End Of sign up style */
